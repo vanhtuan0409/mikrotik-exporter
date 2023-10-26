@@ -21,3 +21,5 @@ debug
 
 mikrotik-exporter
 test-config.yml
+bin/
+dist/
